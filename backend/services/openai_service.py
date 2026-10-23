@@ -78,7 +78,7 @@ class OpenAIService:
             record={'time':datetime.now(timezone.utc).isoformat(),'type':type(error).__name__,'status':getattr(error,'status_code',None),'operation':schema.__name__}
             if isinstance(error, ValueError): record['validation']='Ответ не прошёл проверку структуры или полноты'
             diagnostic=ROOT/'runtime'/'api-diagnostics.jsonl';diagnostic.parent.mkdir(parents=True,exist_ok=True)
-            with diagnostic.open('a') as file:file.write(json.dumps(record,ensure_ascii=False)+'\n')
+            with diagnostic.open('a', encoding='utf-8') as file:file.write(json.dumps(record,ensure_ascii=False)+'\n')
             raise RuntimeError('Не удалось получить корректный ответ API. Проверьте модель, ключ и квоту. Подробности не включены в ответ, чтобы не раскрыть данные.') from None
     async def analyze_text(self, text):
         return await self._call(TEXT_PROMPT, text, settings.openai_model, CompetitorAnalysis)

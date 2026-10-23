@@ -1,0 +1,35 @@
+name: Windows build
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - name: Install dependencies
+        run: python -m pip install -r requirements-desktop.txt
+      - name: Verify local application logic
+        run: python -m unittest test_app -v
+      - name: Build application
+        run: python build.py
+      - name: Verify executable exists
+        shell: pwsh
+        run: |
+          if (!(Test-Path dist/competitionmonitor.exe)) { throw "Executable missing" }
+          Get-FileHash dist/competitionmonitor.exe -Algorithm SHA256
+      - name: Smoke test standalone application
+        shell: pwsh
+        run: |
+          $process = Start-Process -FilePath "dist/competitionmonitor.exe" -ArgumentList "--smoke-test" -PassThru
+          if (!$process.WaitForExit(45000)) { $process.Kill(); throw "Desktop startup timeout" }
+          if ($process.ExitCode -ne 0) { throw "Desktop startup failed" }
+      - uses: actions/upload-artifact@v4
+        with:
+          name: competitionmonitor-windows
+          path: dist/competitionmonitor.exe
+          if-no-files-found: error

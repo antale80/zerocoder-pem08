@@ -1,0 +1,17 @@
+test_01_health_and_fixtures (test_app.AppTests.test_01_health_and_fixtures) ... ok
+test_02_validation (test_app.AppTests.test_02_validation) ... ok
+test_03_missing_key (test_app.AppTests.test_03_missing_key) ... ERROR:competitor_monitor.api:  ❌ ОШИБКА: API не подключён. Заполните локальный .env по .env.example.
+ERROR:competitor_monitor.api:==================================================
+ok
+test_04_invalid_image (test_app.AppTests.test_04_invalid_image) ... ok
+test_05_mocked_routes_and_history (test_app.AppTests.test_05_mocked_routes_and_history) ... ok
+test_06_parser_allowlist (test_app.AppTests.test_06_parser_allowlist) ... ERROR:competitor_monitor.api:  ❌ Ошибка парсинга: URL не входит в список учебных конкурентов в config.py
+ok
+test_07_mocked_parser_integration (test_app.AppTests.test_07_mocked_parser_integration) ... ok
+test_08_model_response_validation (test_app.AppTests.test_08_model_response_validation) ... ok
+test_09_score_bounds (test_app.AppTests.test_09_score_bounds) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.070s
+
+OK

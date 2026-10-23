@@ -1,0 +1,446 @@
+Источник: официальный публичный сайт framer, снимок от 23.10.2026.
+Это маркетинговые заявления, не независимый тест. Числа в демонстрационных интерфейсах не считать реальной статистикой компании.
+
+Ссылка: Framer, Value: framer.com/
+Platform
+Solutions
+Resources
+Ссылка: Enterprise, Value: framer.com/enterpri…
+Ссылка: Pricing, Value: framer.com/pricing
+Ссылка: Log in, Value: framer.com/r/login
+Ссылка: Sign up, Value: framer.com/r/signup/
+Copy logo SVG
+Ссылка: Brand guidelines, Value: framer.com/brand
+Framer is the pro website builder with a world-class design agent
+Framer is the pro website builder with a world-class design agent
+Every change the agent makes stays editable on a real design canvas, with hosting, CMS, analytics, SEO, and AEO built in. Free to start for any type of site.
+Ссылка: Get started for free, Value: framer.com/r/signup/
+Ссылка: Download app, Value: updates.framer.com/…
+Ссылка: New: Framer MCP, Value: framer.com/mcp/
+0:36
+Ссылка: Meet our customers, Value: framer.com/stories/
+Agents that work alongside you, not instead of you
+Agents that work alongside you, not instead of you
+Ссылка: Start with agents, Value: framer.com/agents/
+Exploration
+Exploration — Big Intro 
+Exploration — Side Nav 
+Design with an agent
+Design with an agent
+A professional  design agent , native to the canvas. It works directly on your site to generate and refine in place, with every change visible, editable, and under your control.
+Ссылка: Start with Agents, Value: framer.com/signup/
+CMS
+Site
+·
+main
+Invite
+Publish
+Collections
+Fields
+Plugins
+Academy
+Blog
+Articles
+320
+Creators
+256
+Categories
+18
+Styles
+7
+Developers
+Startups
+Help
+Add...
+Title
+Status
+Image
+Category
+Product
+Draft
+Designing calmer interfaces inspired by nature
+Live
+Inspiration
+Organic shapes and natural motion in modern UI
+Live
+Product
+Earthy color palettes inspired by the natural world
+Live
+Inspiration
+Designing with growth: how nature shapes UX patterns
+Live
+Guide
+From forests to pixels: textures rooted in nature
+Live
+Design
+Run your CMS with an agent
+Run your CMS with an agent
+Manage more. Publish faster.  The CMS agent sets up, organizes, and updates your entire CMS, connecting it directly to the canvas so content and design stay in sync.
+Ссылка: Start with Agents, Value: framer.com/signup/
+ImageWheel
+Code with an agent
+Code with an agent
+Agents turn your wildest ideas into code and put them on your site. From simple custom effects to complex interactions.
+Ссылка: Start with Agents, Value: framer.com/signup/
+Desktop
+Create a few layout
+variations of my site. Keep the content but try some different compositions.
+Thinking...
+Created a design plan
+2s
+Placing layout variations side by side.
+entry area (settable) message
+GPT 6.1 Sol
+Desktop
+1200
+Connect to any AI
+Connect to any AI
+Take action on your site from anywhere. Update copy from Slack. Trigger CMS changes from the terminal. Ship from a GitHub PR. Drive it all from your Terminal, Codex in ChatGPT, Claude Code, Cursor, or any external AI.
+framer-agent
+claude
+cursor
+codex
+╭─── Claude Code  v2.1.170  ─────────────────────────╮
+│                                                  │
+│                                                  │
+Sonnet 4.6 · Claude Team · Framer
+│                                                  │
+╰──────────────────────────────────────────────────╯
+Initializing  WordPress importer …
+└ WP REST API  detected.
+└ Framer CMS  connected.
+Skill (check-wordpress-auth)
+└  WordPress credentials verified. └  Connected to Framer CMS collection.
+Bash (GET /wp-json/wp/v2/posts?per_page)
+└  47 posts returned · 47 mapped to Blog schema.
+Bash
+(GET /wp-json/wp/v2/media × 47)
+└  titles, slugs, authors, dates, and cover images resolved.
+Import complete · 47 blog entries published to Framer CMS.
+Copy install prompt
+Ссылка: Install, Value: framer.com/agents/e…
+Not just vibes, a full platform
+Not just vibes, a full platform
+Everything you need from a website builder, with CMS, hosting, analytics, SEO, and AEO built in.
+Core Web Vitals
+GOOD
+LCP
+1.1s
+INP
+95ms
+CLS
+0.01
+Ссылка: Performance, Value: framer.com/performa…
+Collections
+Fields
+Blog
+Careers
+Events
+Categories
+13
+Speakers
+18
+Talks
+89
+Startups
+Help
+Add...
+Title
+Status
+Image
+Category
+Generative design rooted in natural forms
+Live
+Design
+Blog
+Designing AI tools that feel organic
+Live
+AI
+Blog
+Living systems: data visualization from nature
+Live
+Data
+Blog
+Sustainable interfaces for a greener web
+Live
+Engineering
+Blog
+Learning from nature to design better products
+Live
+AI
+Blog
+Ссылка: CMS, Value: framer.com/cms/
+Site Settings
+Title
+Comet Browser: a Personal…
+URL
+/comet/
+Page Description
+Comet browser by Perplexity is the AI browser that acts as a personal assistant. Automate tasks, research the web, organize your email, and more with Comet.
+Social Preview
+1200 x 630 pixels
+Upload
+Ссылка: SEO, Value: framer.com/seo/
+Branches
+Main
+1m
+use-cases
+1m
+publishing
+8m
+content
+10m
+Ссылка: Collaboration, Value: framer.com/collabor…
+Locales
+NL
+Dutch
+35%
+IT
+Italian
+100%
+CN
+Chinese
+90%
+Ссылка: Localization, Value: framer.com/academy/…
+99.99%
+99.99%
+uptime
+uptime
+Ссылка: Hosting, Value: framer.com/hosting/
+https://www.framer.com/
+Ссылка: Security, Value: framer.com/legal/se…
+Analytics
+Live Visitors
+400
+400
+Unique Visitors
+1.7M
+1.7M
+Total Pageviews
+2.2M
+2.2M
+Bounce Rate
+40.9%
+40.9%
+330k
+Oct 23, 2026
+Pageviews
+135,535
+Visitors
+54,817
+Ссылка: Analytics, Value: framer.com/analytics
+View Home
+400
+400
+Variant
+Views
+Events
+Conversion
+Lift
+Best
+Home Page 2026
+WINNER
+4,916
+837
+17.1%
+14.1%
+91%
+Home Page
+4,799
+719
+15%
+—
+9%
+Ссылка: A/B Testing, Value: framer.com/analytics
+Shipped with Framer
+Shipped with Framer
+Ссылка: See Framer sites, Value: framer.com/communit…
+Trusted by teams shipping big sites
+Trusted by teams shipping big sites
+Ссылка: Read stories, Value: framer.com/stories/
+Ссылка: Miro logo Read story, Value: framer.com/stories/…
+Ссылка: Perplexity logo Read story, Value: framer.com/stories/…
+Ссылка: Legora logo Read story, Value: framer.com/stories/…
+Ссылка: Mixpanel logo Read story, Value: framer.com/stories/…
+Ссылка: Zapier logo Read story, Value: framer.com/stories/…
+Ссылка: Flora logo Read story, Value: framer.com/stories/…
+Ссылка: Mutiny logo Read story, Value: framer.com/stories/…
+Ссылка: StackAI logo Read story, Value: framer.com/stories/…
+Built on a community that isn’t going anywhere
+Built on a community that isn’t going anywhere
+25,204 Resources
+Ссылка: Browse the community, Value: framer.com/communit…
+Community
+Experts
+Gallery
+Feed
+Search Posts…
+Lee Black
+7m
+The only Framer Liquid Glass component that is cross browser and mobile friendly.
+Turn your sound on.
+117
+32
+8
+Gustave Flowbert
+in Marketplace · 42m
+Billie ·  Template
+Copy
+91
+11
+3
+Reposted by Jurre
+Ben Fryc
+6h
+in my fisheye era
+231
+27
+11
+Renny Mathew
+in Marketplace · 19h
+Carousel 3D ·  Component
+Copy
+16
+4
+2
+Trending Templates
+See all
+Ссылка: Can this be built in Framer? Free · Adam, Value: framer.com/
+Ссылка: Recraft Free · Fanny Mulet, Value: framer.com/
+Ссылка: Tidy Up $67 · Darkroom, Value: framer.com/
+Ссылка: Hover Zoom Free · Jurre, Value: framer.com/
+Ссылка: Lou $99 · Gustave Flowbert, Value: framer.com/
+Suggested for you
+Ссылка: Fanny Mulet, Value: framer.com/
+Ссылка: @fanny-mulet, Value: framer.com/
+Follow back
+Ссылка: Bogdan Skripka, Value: framer.com/
+Ссылка: @bogdan-skripka, Value: framer.com/
+Follow
+Ссылка: Adam, Value: framer.com/
+Ссылка: @hemlok, Value: framer.com/
+Following
+Ссылка: darkroom.engineering, Value: framer.com/
+Ссылка: @darkroomengineering, Value: framer.com/
+Follow
+Ссылка: Bogdan Skripka, Value: framer.com/
+Ссылка: @bogdan-skripka, Value: framer.com/
+Follow
+Your next idea starts here
+Your next idea starts here
+entry area (settable)
+GPT 6 Sol
+Create personal portfolio
+Build startup site
+Launch landing page
+Start company blog
+Ссылка: Start without AI, Value: framer.com/signup
+Product
+Ссылка: AI, Value: framer.com/ai/
+Ссылка: Agents, Value: framer.com/agents/
+Ссылка: MCP NEW, Value: framer.com/mcp/
+Ссылка: Design, Value: framer.com/design/
+Ссылка: Collaborate, Value: framer.com/collabor…
+Ссылка: CMS, Value: framer.com/cms/
+Ссылка: Hosting, Value: framer.com/hosting/
+Ссылка: Performance, Value: framer.com/performa…
+Ссылка: SEO, Value: framer.com/seo/
+Ссылка: Skills NEW, Value: framer.com/skills
+Ссылка: Convert, Value: framer.com/convert/
+Ссылка: Publish, Value: framer.com/publish/
+Ссылка: Updates, Value: framer.com/updates
+Marketplace
+Ссылка: Templates, Value: framer.com/communit…
+Ссылка: Components, Value: framer.com/communit…
+Ссылка: Vectors, Value: framer.com/communit…
+Ссылка: Plugins, Value: framer.com/communit…
+Ссылка: Gallery, Value: framer.com/communit…
+Ссылка: Hire Experts, Value: framer.com/communit…
+Business
+Ссылка: Switch NEW, Value: framer.com/switch/
+Ссылка: Enterprise, Value: framer.com/enterpri…
+Ссылка: Agencies, Value: framer.com/agencies/
+Ссылка: Startups, Value: framer.com/startups/
+Ссылка: Pricing, Value: framer.com/pricing
+Resources
+Ссылка: Academy, Value: framer.com/academy/
+Ссылка: Desktop App, Value: framer.com/download…
+Ссылка: Developers, Value: framer.com/develope…
+Ссылка: Affiliates, Value: framer.com/creators
+Ссылка: Experts NEW, Value: framer.com/expert/a…
+Ссылка: Guides, Value: framer.com/guides
+Ссылка: Blog, Value: framer.com/blog/
+Ссылка: Newsletter, Value: framer.com/newslett…
+Ссылка: Stories, Value: framer.com/stories/
+Ссылка: Skills Index NEW, Value: framer.com/skills/i…
+Ссылка: Students, Value: framer.com/educatio…
+Ссылка: Ambassadors, Value: framer.com/educatio…
+Ссылка: Help Articles, Value: framer.com/help/
+Ссылка: Meetups, Value: framer.com/meetups/
+Ссылка: Contact, Value: framer.com/contact/
+Solutions
+Ссылка: Designers, Value: framer.com/solution…
+Ссылка: Agencies, Value: framer.com/solution…
+Ссылка: Marketers, Value: framer.com/solution…
+Ссылка: Growth, Value: framer.com/solution…
+Ссылка: Builders, Value: framer.com/solution…
+Ссылка: Engineers, Value: framer.com/solution…
+Ссылка: Site Teams, Value: framer.com/solution…
+Ссылка: Founders, Value: framer.com/solution…
+Ссылка: AI website builder, Value: framer.com/solution…
+Ссылка: AI design agent, Value: framer.com/solution…
+Ссылка: Website builder, Value: framer.com/solution…
+Ссылка: Landing pages, Value: framer.com/solution…
+Ссылка: Portfolio maker, Value: framer.com/solution…
+Ссылка: UI/UX design, Value: framer.com/solution…
+Ссылка: Figma to HTML, Value: framer.com/solution…
+Ссылка: No-code, Value: framer.com/solution…
+Ссылка: Compare, Value: framer.com/compare
+Ссылка: Webflow, Value: framer.com/compare/…
+Ссылка: Figma, Value: framer.com/compare/…
+Ссылка: Wix, Value: framer.com/compare/…
+Ссылка: Squarespace, Value: framer.com/compare/…
+Ссылка: WordPress, Value: framer.com/compare/…
+Ссылка: Readymag, Value: framer.com/compare/…
+Ссылка: Ceros, Value: framer.com/compare/…
+Ссылка: Unbounce, Value: framer.com/compare/…
+Ссылка: Lovable, Value: framer.com/compare/…
+Ссылка: Claude Code, Value: framer.com/compare/…
+Ссылка: ChatGPT, Value: framer.com/compare/…
+Ссылка: Codex, Value: framer.com/compare/…
+Ссылка: Contentful, Value: framer.com/compare/…
+Ссылка: Sanity, Value: framer.com/compare/…
+Ссылка: AEM, Value: framer.com/compare/…
+Ссылка: Replit, Value: framer.com/compare/…
+Ссылка: v0, Value: framer.com/compare/…
+Company
+Ссылка: About NEW, Value: framer.com/about
+Ссылка: Careers, Value: framer.com/careers/
+Ссылка: Security, Value: framer.com/legal/se…
+Ссылка: Brand, Value: framer.com/brand
+Ссылка: Abuse, Value: mailto:abuse@framer…
+Ссылка: Legal, Value: framer.com/legal/co…
+Ссылка: Trust, Value: app.eu.vanta.com/fr…
+By Framer
+Ссылка: Merch, Value: framer.com/store
+Ссылка: Keyboard, Value: framer.com/f1
+Ссылка: Stack Score, Value: framer.com/stack-sc…
+Ссылка: Free domains, Value: framer.com/domains/
+Ссылка: CanvasBench, Value: framer.com/canvasbe…
+Ссылка: State of Sites, Value: framer.com/state-of…
+Ссылка: AEO scanner, Value: framer.com/aeo
+Ссылка: Link Preview, Value: linkpreview.app/
+Select Language
+English
+Ссылка: Twitter / X, Value: x.com/framer
+Ссылка: YouTube, Value: youtube.com/@Framer
+Ссылка: Instagram, Value: instagram.com/frame…
+Ссылка: LinkedIn, Value: linkedin.com/compan…
+Ссылка: Threads, Value: threads.com/@framer
+Ссылка: CCPA, Value: app.eu.vanta.com/fr…
+Ссылка: All services online, Value: framerstatus.com/
+Framer
+2026
+We use cookies to enhance your experience, analyze site traffic and deliver personalized ads and content. Read our
+Ссылка: Cookie Policy, Value: framer.com/legal/co…
+.

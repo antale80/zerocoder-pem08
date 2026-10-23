@@ -1,0 +1,35 @@
+[
+  {
+    "id": "tilda",
+    "name": "Tilda",
+    "url": "https://tilda.cc/ru/",
+    "checked_at": "2026-10-23",
+    "image": "tilda.png",
+    "text": "tilda.txt",
+    "source_snapshot": "tilda-source.txt",
+    "origin": "Официальный сайт, снимок через внутренний браузер Codex; не Selenium",
+    "limitations": "Один кадр не показывает весь сайт и не доказывает работу функций."
+  },
+  {
+    "id": "framer",
+    "name": "Framer",
+    "url": "https://www.framer.com/",
+    "checked_at": "2026-10-23",
+    "image": "framer.png",
+    "text": "framer.txt",
+    "source_snapshot": "framer-source.txt",
+    "origin": "Официальный сайт, снимок через внутренний браузер Codex; не Selenium",
+    "limitations": "Один кадр не показывает весь сайт и не доказывает работу функций."
+  },
+  {
+    "id": "readymag",
+    "name": "Readymag",
+    "url": "https://readymag.com/",
+    "checked_at": "2026-10-23",
+    "image": "readymag.png",
+    "text": "readymag.txt",
+    "source_snapshot": "readymag-source.txt",
+    "origin": "Официальный сайт, снимок через внутренний браузер Codex; не Selenium",
+    "limitations": "Один кадр не показывает весь сайт и не доказывает работу функций."
+  }
+]

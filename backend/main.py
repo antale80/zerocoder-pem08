@@ -11,7 +11,7 @@ from fastapi.staticfiles import StaticFiles
 from fastapi.responses import FileResponse
 import uvicorn
 
-from backend.config import settings
+from backend.config import settings, ROOT
 from backend.models.schemas import (
     TextAnalysisRequest,
     TextAnalysisResponse,
@@ -44,7 +44,7 @@ app = FastAPI(
 # CORS для работы с фронтендом
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=["http://127.0.0.1:8000", "http://localhost:8000"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -107,7 +107,7 @@ async def shutdown_event():
 async def root():
     """Главная страница - отдаём фронтенд"""
     logger.debug("Запрос главной страницы")
-    return FileResponse("frontend/index.html")
+    return FileResponse(ROOT / "frontend/index.html")
 
 
 @app.post("/analyze_text", response_model=TextAnalysisResponse)
@@ -131,6 +131,7 @@ async def analyze_text(request: TextAnalysisRequest):
         # Сохраняем в историю
         logger.info("  💾 Сохранение в историю...")
         history_service.add_entry(
+            analysis=analysis.model_dump(),
             request_type="text",
             request_summary=request.text[:100] + "..." if len(request.text) > 100 else request.text,
             response_summary=analysis.summary
@@ -143,6 +144,8 @@ async def analyze_text(request: TextAnalysisRequest):
             success=True,
             analysis=analysis
         )
+    except HTTPException:
+        raise
     except Exception as e:
         logger.error(f"  ❌ ОШИБКА: {e}")
         logger.error("=" * 50)
@@ -177,7 +180,18 @@ async def analyze_image(file: UploadFile = File(...)):
         
         # Читаем и кодируем изображение
         logger.info("  📥 Чтение файла...")
-        content = await file.read()
+        content = await file.read(8 * 1024 * 1024 + 1)
+        if len(content) > 8 * 1024 * 1024:
+            raise HTTPException(413, 'Изображение больше 8 МБ')
+        from PIL import Image
+        from io import BytesIO
+        try:
+            with Image.open(BytesIO(content)) as image:
+                if image.width * image.height > 20_000_000:
+                    raise ValueError('Image too large')
+                image.verify()
+        except Exception:
+            raise HTTPException(400, 'Невалидное изображение')
         file_size_kb = len(content) / 1024
         logger.info(f"  Размер файла: {file_size_kb:.1f} KB")
         
@@ -197,6 +211,7 @@ async def analyze_image(file: UploadFile = File(...)):
         # Сохраняем в историю
         logger.info("  💾 Сохранение в историю...")
         history_service.add_entry(
+            analysis=analysis.model_dump(),
             request_type="image",
             request_summary=f"Изображение: {file.filename}",
             response_summary=analysis.description[:200] if analysis.description else "Анализ изображения"
@@ -209,6 +224,8 @@ async def analyze_image(file: UploadFile = File(...)):
             success=True,
             analysis=analysis
         )
+    except HTTPException:
+        raise
     except Exception as e:
         logger.error(f"  ❌ ОШИБКА: {e}")
         logger.error("=" * 50)
@@ -286,6 +303,7 @@ async def parse_demo(request: ParseDemoRequest):
         # Сохраняем в историю
         logger.info("  💾 Сохранение в историю...")
         history_service.add_entry(
+            analysis=analysis.model_dump(),
             request_type="parse",
             request_summary=f"URL: {request.url}",
             response_summary=analysis.summary[:100] if analysis.summary else f"Title: {title or 'N/A'}"
@@ -301,6 +319,8 @@ async def parse_demo(request: ParseDemoRequest):
             success=True,
             data=parsed_content
         )
+    except HTTPException:
+        raise
     except Exception as e:
         logger.error(f"  ❌ ОШИБКА: {e}")
         logger.error("=" * 50)
@@ -347,7 +367,7 @@ async def health_check():
 
 
 # Статические файлы для фронтенда
-app.mount("/static", StaticFiles(directory="frontend"), name="static")
+app.mount("/static", StaticFiles(directory=ROOT / "frontend"), name="static")
 logger.info("Статические файлы подключены: /static -> frontend/")
 
 
@@ -358,3 +378,9 @@ if __name__ == "__main__":
         port=settings.api_port,
         reload=True
     )
+
+app.mount("/fixtures", StaticFiles(directory=ROOT / "data"), name="fixtures")
+# Названия из задания и исходника обслуживают одну логику.
+app.add_api_route("/analyzetext", analyze_text, methods=["POST"], response_model=TextAnalysisResponse)
+app.add_api_route("/analyzeimage", analyze_image, methods=["POST"], response_model=ImageAnalysisResponse)
+app.add_api_route("/parsedemo", parse_demo, methods=["POST"], response_model=ParseDemoResponse)

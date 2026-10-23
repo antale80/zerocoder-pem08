@@ -1,0 +1,26 @@
+[
+  {
+    "id": "flowpilot",
+    "name": "FlowPilot Demo",
+    "type": "fictional",
+    "text": "flowpilot.txt",
+    "image": "flowpilot.png",
+    "url": "http://127.0.0.1:8000/fixtures/flowpilot.html"
+  },
+  {
+    "id": "doculab",
+    "name": "DocuLab Demo",
+    "type": "fictional",
+    "text": "doculab.txt",
+    "image": "doculab.png",
+    "url": "http://127.0.0.1:8000/fixtures/doculab.html"
+  },
+  {
+    "id": "visiondesk",
+    "name": "VisionDesk Demo",
+    "type": "fictional",
+    "text": "visiondesk.txt",
+    "image": "visiondesk.png",
+    "url": "http://127.0.0.1:8000/fixtures/visiondesk.html"
+  }
+]

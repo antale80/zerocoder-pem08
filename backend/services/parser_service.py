@@ -45,20 +45,16 @@ class ParserService:
         
         options = Options()
         options.add_argument('--headless=new')
-        options.add_argument('--no-sandbox')
         options.add_argument('--disable-dev-shm-usage')
         options.add_argument('--disable-gpu')
         options.add_argument('--window-size=1920,1080')
         options.add_argument(f'--user-agent={settings.parser_user_agent}')
-        options.add_argument('--disable-blink-features=AutomationControlled')
-        options.add_experimental_option('excludeSwitches', ['enable-automation'])
-        options.add_experimental_option('useAutomationExtension', False)
         
         logger.debug("  Опции Chrome настроены")
         logger.info("  📥 Загрузка ChromeDriver...")
         
         # Автоматическая установка ChromeDriver
-        service = Service(ChromeDriverManager().install())
+        service = Service()
         driver = webdriver.Chrome(service=service, options=options)
         
         elapsed = time.time() - start_time
@@ -181,6 +177,9 @@ class ParserService:
         Асинхронный парсинг URL через Chrome
         """
         # Добавляем протокол если его нет
+        from backend.config import COMPETITOR_URLS
+        if url not in COMPETITOR_URLS:
+            return None, None, None, None, 'URL не входит в список учебных конкурентов в config.py'
         original_url = url
         if not url.startswith(('http://', 'https://')):
             url = 'https://' + url

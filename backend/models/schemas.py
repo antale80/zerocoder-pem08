@@ -10,7 +10,7 @@ from pydantic import BaseModel, Field
 
 class TextAnalysisRequest(BaseModel):
     """Запрос на анализ текста"""
-    text: str = Field(..., min_length=10, description="Текст для анализа")
+    text: str = Field(..., min_length=10, max_length=20000, description="Текст для анализа")
 
 
 class ParseDemoRequest(BaseModel):
@@ -21,6 +21,11 @@ class ParseDemoRequest(BaseModel):
 # === Ответы ===
 
 class CompetitorAnalysis(BaseModel):
+    design_score: Optional[int] = Field(None, ge=0, le=10)
+    animation_potential: str = ''
+    evidence: List[str] = Field(default_factory=list)
+    limitations: List[str] = Field(default_factory=list)
+
     """Структурированный анализ конкурента"""
     strengths: List[str] = Field(default_factory=list, description="Сильные стороны")
     weaknesses: List[str] = Field(default_factory=list, description="Слабые стороны")
@@ -30,6 +35,11 @@ class CompetitorAnalysis(BaseModel):
 
 
 class ImageAnalysis(BaseModel):
+    design_score: Optional[int] = Field(None, ge=0, le=10)
+    animation_potential: str = ''
+    evidence: List[str] = Field(default_factory=list)
+    limitations: List[str] = Field(default_factory=list)
+
     """Анализ изображения"""
     description: str = Field("", description="Описание изображения")
     marketing_insights: List[str] = Field(default_factory=list, description="Маркетинговые инсайты")
@@ -72,6 +82,8 @@ class ParseDemoResponse(BaseModel):
 # === История ===
 
 class HistoryItem(BaseModel):
+    analysis: Optional[dict] = None
+
     """Элемент истории"""
     id: str
     timestamp: datetime

@@ -1,0 +1,369 @@
+Browser tab: 3, Title: "Создать сайт бесплатно. Конструктор сайтов Tilda Publishing", URL: "https://tilda.cc/ru/".
+1 AXWebArea Создать сайт бесплатно. Конструктор сайтов Tilda Publishing, URL: tilda.cc/ru/
+	2 container
+		3 button
+			4 image
+		5 container allrecords
+			6 container t-header
+				7 container
+					8 link Description: Tilda Publishing, Value: tilda.cc/ru/
+					9 content list
+						10 link Description: ТАРИФЫ , Value: tilda.cc/ru/pricing/, ID: t934linktopage4627
+						11 link Description: БЛОГ , Value: blog.tilda.cc/, ID: t934linktopage990016
+						12 container
+							13 text ЕЩЁ 
+							14 image
+					15 link Description: ВОЙТИ, Value: tilda.cc/login/
+					16 link Description: РЕГИСТРАЦИЯ, Value: tilda.cc/registration/
+			17 container rec2338954061
+				18 container recorddiv2338954061
+					19 image Description: Создать сайт на Тильде, ID: coverCarry2338954061
+					20 image Tilda Publishing
+				21 container
+					22 text Создайте впечатляющий сайт на Tilda.  Вместе  с 
+					23 image AI
+				24 text Мгновенный старт с ИИ. Превратите идею в готовый сайт всего за несколько шагов — быстро и без ограничений.
+				25 link Description: Обзор, Value: tilda.cc/ru/#overview
+				26 link Description: Создать сайт бесплатно, Value: tilda.cc/registration/
+			27 container rec3962125
+				28 text СОЗДАТЬ САЙТ БЕЗ ПРОГРАММИРОВАНИЯ
+				29 text Как сделать тысячи людей счастливыми?
+				30 container
+					31 text Мы придумали новый способ создания сайтов, где процесс похож на игру. Теперь каждый — дизайнер, если есть страсть к любимому делу. Неважно, что вы делаете: сайт для бизнеса, 
+					32 link Description: лендинг пейдж, Value: tilda.cc/ru/lp/sozdat-landing-page/
+					33 text , 
+					34 link Description: интернет-магазин, Value: tilda.cc/ru/build-online-store/
+					35 text  или 
+					36 link Description: редакторский спецпроект, Value: tilda.cc/ru/longreads/
+					37 text  — с Тильдой вы сделаете это быстро и легко.
+			38 container rec3332827
+				39 heading Интуитивный конструктор сайтов с AI, Value: 1
+					40 text Интуитивный конструктор сайтов с AI
+				41 text Создание сайта самостоятельно в удобном и понятном интерфейсе Tilda.
+				42 text Используйте блоки в сотнях комбинаций вместе с возможностями AI и легко создавайте сайт своими руками.
+			43 container rec3332828
+				44 heading Библиотека блоков, Value: 2
+					45 text Библиотека блоков
+				46 text Полноэкранные обложки, эффектная типографика, фотогалереи, фоновые видео, формы заявок и многое другое.
+				47 text Вам не обязательно быть дизайнером. Мы создали более 550 блоков. Каждый из них гармоничен, и в то же время имеет настройки, позволяющие создать сайт с индивидуальным дизайном.
+			48 container rec8115883
+				49 heading Редактор собственных блоков, Value: 2
+					50 text Редактор собственных блоков
+				51 text Создайте с нуля новые блоки с уникальным дизайном и адаптивностью.
+				52 container
+					53 link Description: Zero Block, Value: zero.tilda.cc/ru/
+					54 text  — графический редактор для профессиональных дизайнеров, который позволяет редактировать все элементы сайта. Так вы полностью контролируете, каким будет ваш дизайн. 
+			55 container rec7808300
+				56 heading AI и вайб-код, Value: 2
+					57 text AI и вайб-код
+				58 text Начните с промпта и создавайте сайт в диалоге с искусственным интеллектом.
+				59 container
+					60 link Description: AI в Тильде, Value: tilda.cc/ru/lp/ai/
+					61 text  — ваш личный помощник. Он может собрать страницу с нуля, написать тексты и сгенерировать отдельные блоки под ваш запрос — всё, от сложных калькуляторов до интерактивных анимаций.
+			62 container
+				63 text Тильда в действии.  Посмотрите, как легко создать сайт самому. Всё, что вам нужно, — это контент и хороший вкус.
+			64 link Description: Создать сайт бесплатно, Value: tilda.cc/registration/
+			65 container
+				66 container molecule-174117381498494500
+					67 container molecule-174117379949080650
+						68 container molecule-174117379491724970
+							69 heading Ускорьте создание сайта с AI, Value: 2
+								70 text Ускорьте создание сайта с AI
+							71 text Используйте возможности искусственного интеллекта, встроенного в Тильду. Расскажите AI о своём бизнесе и он за вас сгенерирует страницу сайта, напишет цепляющие тексты и подберёт изображения.
+						72 link Description: Узнать больше, Value: tilda.cc/ru/lp/ai/
+			73 text Ключевые особенности
+			74 container rec3332835
+				75 heading Фокус на типографике, Value: 2
+					76 text Фокус на типографике
+				77 container
+					78 text Контент, оформленный с помощью Тильды, не просто красив — его хочется читать. В процессе создания сайта сосредоточьтесь на контенте, ведь мы уже подумали о его подаче. В каждый блок на Тильде заложены гармоничные пропорции. Удобная ширина строки, интерлиньяж, размер шрифта, комбинации заголовков упрощают чтение текста.
+			79 container
+				80 content list
+					81 button Предыдущий слайд
+					82 button Следующий слайд
+				83 container 1 of 4
+					84 image Первый экран статьи об истории морских обитателей, созданной на Тильде. Аккуратный надзаголовок, крупный заголовок, основной текст. Справа от текста фотография автора, его имя и должность.
+				85 content list
+					86 button Перейти к слайду 1
+					87 button Перейти к слайду 2
+					88 button Перейти к слайду 3
+					89 button Перейти к слайду 4
+			90 container rec3332837
+				91 text Визуальный контент
+				92 container
+					93 text Создание красивого сайта во многом зависит от фотографий и видео. Мы придумали, как их эффектно показать. Мы разработали коллекцию блоков для подачи визуального контента. Полноэкранные обложки и видео-обложки, галереи, фото-комбинации, видео-секвенции. Ваши возможности становятся намного шире. Вы можете проектировать опыт пользователя, включая все медиа-форматы. 
+					94 link Description: Создайте сайт без программиста, Value: tilda.cc/registration/
+					95 text .
+			96 container
+				97 content list
+					98 button Предыдущий слайд
+					99 button Следующий слайд
+				100 container 1 of 3
+					101 image Экран сайта на Тильде, где небольшая цитата расположена в верхней части, а ниже — вертикальные фотографии в три колонки.
+				102 content list
+					103 button Перейти к слайду 1
+					104 button Перейти к слайду 2
+					105 button Перейти к слайду 3
+			106 container recorddiv7809100
+				107 text Конструктор сайтов Tilda Publishing
+			108 container rec5999088
+				109 heading Все для лендингов, Value: 2
+					110 text Все для лендингов
+				111 text Создание посадочных страниц и измерение их эффективности
+				112 container
+					113 text Мы разработали ряд блоков для создания лендингов, среди которых — отзывы, блоки call-to-action, перечисление преимуществ, кнопки и многое другое. Особенно мы гордимся удобными формами сбора данных, которые интегрированы с двенадцатью сервисами, подходящими для того, чтобы 
+					114 link Description: создать лендинг пейдж, Value: tilda.cc/ru/lp/sozdat-landing-page/
+					115 text .
+			116 container rec5999097
+				117 text Интернет-магазин
+				118 text Создавайте онлайн-магазины, интернет-бутики, продавайте отдельные товары или услуги.
+				119 container
+					120 text Используйте готовые шаблоны или специальные блоки для интернет-коммерции. Выберите способ приема платежей: через ЮКасса, Robokassa, Cloudpayments, Альфа-Банк, Сбер, Тинькофф и другие, опубликуйте сайт, и ваш интернет-магазин готов за несколько часов. Данные о заказах будут приходить на вашу почту, в Google Drive или в CRM. 
+					121 link Description: Создать интернет-магазин просто!, Value: tilda.cc/ru/build-online-store/
+			122 link Description: Создать сайт своими руками, Value: tilda.cc/registration/
+			123 text Больше функций для успешной работы
+			124 container
+				125 button Предыдущий слайд
+				126 button Следующий слайд
+				127 container carousel_2057993121
+					128 container 2 из 11
+						129 text Tilda CRM
+						130 text Получайте заявки с сайта, создавайте базу контактов и следите за статистикой. Встроенная в Тильду CRM помогает держать все под контролем.
+					131 container 3 из 11
+						132 text СMS Потоки
+						133 text Быстро создавайте сайт с большим количеством страниц под разные сценарии. Блог, каталог, команда, вакансии — всё это Потоки.
+					134 container 4 из 11
+						135 text MCP-сервер
+						136 text Подключите AI-агента к Тильде и поручайте ему задачи: создавать и редактировать страницы, управлять товарами, добавлять посты и многое другое.
+					137 container 5 из 11
+						138 text Квиз-формы
+						139 text Увеличьте конверсию вашего сайта, добавив на него маркетинговый квиз. Узнайте предпочтения посетителей сайта и сделайте для них персональное предложение.
+					140 container 6 из 11
+						141 text Личный кабинет (Members)
+						142 text Ограничьте доступ к эксклюзивному контенту вашего проекта: закрытым материалам, платным курсам или отдельным страницам сайта.
+					143 container 7 из 11
+						144 text Онлайн-курсы
+						145 text Превратите свою экспертизу в курс и поделитесь знаниями с новой аудиторией.
+					146 container 8 из 11
+						147 text Каталог товаров
+						148 text Используйте Каталог товаров, чтобы добавлять позиции, редактировать описания и наличие, распределять товары по разделам и настраивать скидки.
+					149 container 9 из 11
+						150 text Tilda Exeprts
+						151 text На Тильде легко сделать сайт самому, но иногда на это не хватает времени. Найти дизайнера, который создаст вам подходящий сайт, быстро и просто с помощью каталога экспертов Tilda Experts.
+					152 container 10 из 11
+						153 text Tilda Docs
+						154 text Создайте корпоративную базу знанию, храните инструкции или ведите личные заметки. Объединяйте документы в папки, чтобы поддерживать порядок, и делитесь базой знаний с другими людьми.
+					155 container 11 из 11
+						156 text Конструктор писем
+						157 text Создайте свою рассылку из блоков в удобном редакторе и отправьте ее через Тильду или любой удобный сервис для отправки писем.
+			158 link Description: Все возможности, Value: tilda.cc/ru/features/
+			159 container rec1024580666
+				160 text Вы в хорошей компании
+				161 container Слайдер
+					162 content list
+						163 button Предыдущий слайд
+						164 button Следующий слайд
+					165 container 1 of 28
+						166 container
+							167 text Тильда — стандарт на рынке создания сайтов. Все дизайн-агентства, с которыми мы работаем, умеют создавать качественный контент на платформе. Это сильно упрощает процесс разработки, публикации и актуализации лендингов и сайтов.
+							168 text Удобно, что есть Tilda CRM «из коробки», которая в два клика подключается к сайтам и позволяет не пропустить ни одной клиентской заявки. Тильда помогает сохранить время и предлагает простой, но мощный инструмент, чтобы мы могли реализовать практически любые идеи с минимальными затратами.
+						169 text Илья Титов
+						170 container
+							171 text IT-директор 
+							172 link Description: Модульбанка, Value: modulbank.ru/
+					173 content list
+						174 button Перейти к слайду 1
+						175 button Перейти к слайду 2
+						176 button Перейти к слайду 3
+						177 button Перейти к слайду 4
+						178 button Перейти к слайду 5
+						179 button Перейти к слайду 6
+						180 button Перейти к слайду 7
+						181 button Перейти к слайду 8
+						182 button Перейти к слайду 9
+						183 button Перейти к слайду 10
+						184 button Перейти к слайду 11
+						185 button Перейти к слайду 12
+						186 button Перейти к слайду 13
+						187 button Перейти к слайду 14
+						188 button Перейти к слайду 15
+						189 button Перейти к слайду 16
+						190 button Перейти к слайду 17
+						191 button Перейти к слайду 18
+			192 container
+				193 text И предприниматели, и крупные компании превращают свои идеи в красивые проекты.
+			194 container recorddiv1024583576
+				195 image Description: Конструктор сайтов Tilda Publishing, ID: coverCarry1024583576
+				196 text Конструктор сайтов Tilda Publishing
+			197 container rec5999194
+				198 text Интеграция c сервисами
+				199 container
+					200 text Делайте  рассылки , собирайте  обратную связь ,  подключайте системы управления данными клиентов (CRM)  и расширяйте функциональность сайта с помощью популярных сервисов, интегрированных в Тильду.
+			201 container rec5999198
+				202 text Платежные системы
+				203 container
+					204 text Получайте оплату за мастер-классы и вебинары, продавайте товары в интернет-магазинах. Подключите один из сервисов и принимайте оплату через ЮКасса, Юмани, Robokassa, Cloudpayments, Альфа-Банк, Сбербанк, ТинькоффБанк, Stripe и 30+ других платежных сервисов.
+					205 link Description: Список всех доступных платежных систем, Value: help-ru.tilda.cc/online-store/payment-systems
+			206 container rec5999201
+				207 text SEO-оптимизация
+				208 container
+					209 text Тильда — конструктор сайтов, с продуманной функциональностью для SEO. Специалисты найдут все инструменты для поисковой оптимизации: тэги H1 и alt, заголовки, описания и ключевые слова, «чистые» адреса страниц, файлы robots и sitemap. 
+					210 link Description: Подробнее, Value: tilda.cc/ru/lp/seo/
+			211 container rec5999240
+				212 text Публикация сайта
+				213 text Сайт, созданный на Тильде, загружается быстро, а данные надёжно защищены.
+			214 container
+				215 text Ваш собственный домен Вы можете привязать к проекту ваш домен, при этом сайт останется на платформе Укажите ваш адрес сайта в настройках и добавьте ссылку на наш IP у регистратора и ваши посетители легко найдут вас в сети по уникальному адресу. 
+				216 link Description: Подробнее, Value: help-ru.tilda.cc/customdomain
+			217 container
+				218 text Быстрая загрузка страниц и защита от атак Сайт хранится в облаке, быстро загружается и защищен от DDoS-атак Высокую скорость обеспечивает CDN (cеть доставки контента) и адаптивная загрузка изображений. SSL-cертификат для настройки HTTPS подключается внутри личного кабинета.
+			219 container
+				220 text Экспорт и API Сайт легко экспортируется на ваш сервер или интегрируется с готовым сайтом через API Этот вариант подходит для проектов с высокой посещаемостью и тех, кто предпочитает иметь полный контроль. 
+				221 link Description: Подробнее, Value: tilda.cc/ru/lp/api/
+			222 container rec55523505
+				223 link Description: Tilda Education, Value: tilda.education/
+				224 text Мы публикуем оригинальные обучающие материалы и выпускаем курсы по веб-дизайну для самообразования.
+			225 content list
+				226 container
+					227 link Description: Как создать сайт. Пошаговое руководство , Value: tilda.education/how-to-build-website, ID: cardtitle1_199175991
+				228 container
+					229 link Description: Как написать текст для лендинга? , Value: tilda.education/articles-how-to-write-text-for-landing, ID: cardtitle2_199175991
+				230 container
+					231 link Description: 31 документальный фильм для дизайнеров , Value: blog.tilda.cc/moviesfordesigners, ID: cardtitle3_199175991
+			232 link Description: Читать все статьи, Value: tilda.education/
+			233 container rec5999255
+				234 text Видеоуроки
+				235 text Туториалы создания на Tilda проектов различных форматов: страницы, сайта, блога, лонгрида и т.д.
+			236 content list
+				237 container
+					238 pop up button Как сделать сайт, ID: cardtitle1_1024600666
+				239 container
+					240 pop up button Как сделать магазин, ID: cardtitle2_1024600666
+				241 container
+					242 pop up button Как работать в Zero Block, ID: cardtitle3_1024600666
+			243 link Description: Все видеоуроки, Value: tilda.education/video/
+			244 container rec5999250
+				245 heading Учебники для создания сайтов, Value: 2
+					246 text Учебники для создания сайтов
+				247 text Комплексы лекций, которые представляют новый взгляд на процесс разработки креативных решений в вебе и продвижение сайта.
+			248 content list
+				249 container
+					250 link Description: Интернет-маркетинг с нуля, Value: tilda.education/internet-marketing-course, ID: cardtitle1_38004458
+					251 text Учебник, который научит продвигать свой сайт
+				252 container
+					253 link Description: Создание Landing Page, Value: tilda.education/landing-page-course, ID: cardtitle2_38004458
+					254 container
+						255 text Бесплатный учебник, который научит самостоятельно создавать эффективные
+						256 text посадочные страницы
+				257 container
+					258 link Description: Дизайн в цифровой среде, Value: tilda.education/digital-design-basic-course, ID: cardtitle3_38004458
+					259 text Теоретический учебник по веб-дизайну
+			260 container rec3332844
+				261 heading Просто создайте свой сайт, Value: 2
+					262 text Просто создайте свой сайт
+				263 text мы обо всем позаботились
+			264 content list
+				265 container
+					266 text Мы отслеживаем тренды в дизайне Мы отслеживаем тренды в дизайне, поэтому сайты, созданные на Tilda, выглядят актуально.
+				267 container
+					268 text Техподдержка не понадобится Вам не придется учиться кодить или просить о помощи знакомых программистов, чтобы сделать сайт. Все нужные настройки всегда под рукой, в понятном интерфейсе.
+				269 container
+					270 text Оптимизация для поисковых систем Полный контроль над тем, как ваш сайт будет выглядеть в поисковой выдаче или в социальных сетях.
+				271 container
+					272 text Большой выбор шрифтов Загружайте собственные файлы шрифтов, используйте шрифты из Google Fonts и Adobe Fonts или выбирайте из списка установленных в Тильде.
+				273 container
+					274 text Google Analytics и Яндекс.Метрика Также вы можете подключить Google Analytics и Яндекс. Метрику и знать все о посещаемости вашего сайта.
+				275 container
+					276 text Высокая скорость загрузки сайтов Все изображения хранятся в глобальной системе доставки контента (CDN), что значительно сокращает скорость загрузки сайтов за счет использования географически распределенных серверов.
+			277 link Description: Полное описание возможностей, Value: tilda.cc/ru/features/
+			278 container t-footer
+				279 text Сайт, о котором вы мечтали, начинается прямо здесь
+				280 link Description: Создать сайт, Value: tilda.cc/registration/
+				281 container
+					282 text ПЛАТФОРМА
+					283 container
+						284 link Description: Главная страница, Value: tilda.cc/
+						285 link Description: Тарифы, Value: tilda.cc/ru/pricing/
+						286 link Description: Список возможностей, Value: tilda.cc/ru/features/
+						287 link Description: Шаблоны, Value: tilda.cc/ru/tpls/
+						288 link Description: Примеры сайтов, Value: tilda.cc/ru/madeontilda/
+						289 link Description: Блог, Value: blog.tilda.cc/
+						290 link Description: Вакансии. Мы нанимаем, Value: company.tilda.cc/ru/
+						291 link Description: Отзывы о Тильде, Value: tilda.cc/ru/otzyvy
+						292 link Description: Обзор, Value: tilda.cc/ru/review/
+						293 link Description: Медиа-кит, Value: tilda.cc/ru/mediakit/
+						294 link Description: Безопасность и защита, Value: tilda.cc/ru/lp/security/
+						295 link Description: ﻿Пользовательское, Value: tilda.cc/ru/terms/
+						296 link Description: соглашение, Value: tilda.cc/ru/terms/
+						297 link Description: Политика конфиденциальности, Value: tilda.cc/ru/privacy/
+						298 link Description: English version, Value: tilda.cc/?lang=en
+					299 text РЕШЕНИЯ
+					300 container
+						301 link Description: Конструктор сайтов, Value: tilda.cc/ru/lp/konstructor-saitov/
+						302 link Description: Создание landing page, Value: tilda.cc/ru/lp/sozdat-landing-page-dlya-biznesa/
+						303 link Description: Создание интернет-магазина, Value: tilda.cc/ru/build-online-store/
+						304 link Description: Создание лонгрида, Value: tilda.cc/ru/lp/sozdat-longread/
+						305 link Description: Создание блога компании, Value: tilda.cc/ru/lp/sozdat-blog/
+						306 link Description: Создание онлайн-курсов, Value: tilda.cc/ru/lp/konstructor-kursov/
+						307 link Description: SEO на Тильде, Value: tilda.cc/ru/lp/seo/
+						308 link Description: Конструктор писем, Value: tilda.cc/ru/lp/email-campaign-builder/
+						309 link Description: Конструктор форм, Value: tilda.cc/ru/lp/forms/
+						310 link Description: Zero Block. Редактор для веб-дизайнеров, Value: zero.tilda.cc/ru
+						311 link Description: Пошаговая анимация, Value: tilda.cc/ru/lp/step-by-step-animation/
+						312 link Description: Tilda CRM, Value: tilda.cc/ru/lp/crm/
+						313 link Description: Личный кабинет, Value: tilda.cc/ru/lp/membership/
+						314 link Description: Создание квиза, Value: tilda.cc/ru/lp/quiz/
+						315 link Description: Адаптивная загрузка изображений, Value: tilda.cc/ru/lp/image-optimization/
+						316 link Description: Цифровая доступность, Value: tilda.cc/ru/lp/accessibility
+						317 link Description: AI для создания сайтов, Value: tilda.cc/ru/lp/ai/
+						318 link Description: MCP-сервер, Value: blog.tilda.cc/mcp-server
+						319 link Description: CMS Потоки, Value: tilda.cc/ru/lp/feeds/
+						320 link Description: Tilda Docs, Value: tilda.cc/ru/lp/docs/
+					321 text ПОДДЕРЖКА
+					322 container
+						323 link Description: Справочный центр, Value: help-ru.tilda.cc/
+						324 link Description: Частые вопросы, Value: tilda.cc/ru/answers/
+						325 link Description: Видеокурс, Value: tilda.education/course-for-beginners
+						326 link Description: по созданию сайтов, Value: tilda.education/course-for-beginners
+						327 link Description: Видеокурс по созданию интерне-магазина, Value: video.tilda.ru/kurs-sozdanie-internet-magazina
+						328 link Description: Видеокурс «Как разобраться в задаче», Value: tilda.education/task-understanding-course
+						329 link Description: Видеокурс «Как фрилансеру продавать услуги», Value: tilda.education/freelance-sales
+						330 link Description: Видеокурс «Сторителлинг в дизайне», Value: tilda.education/storytelling-course
+						331 link Description: Видеоуроки, Value: tilda.education/#video
+						332 link Description: Вебинары, Value: webinars.tilda.ru/
+						333 link Description: Экспорт кода и API, Value: help-ru.tilda.cc/#developers
+						334 link Description: Пожаловаться, Value: tilda.cc/ru/abuse/
+					335 text TILDA EDUCATION
+					336 container
+						337 link Description: Учебник «Создание Landing page», Value: tilda.education/landing-page-course
+						338 link Description: Учебник «Интернет-маркетинг с нуля», Value: tilda.education/internet-marketing-course
+						339 link Description: Учебник «Дизайн в цифровой среде», Value: tilda.education/digital-design-basic-course
+						340 link Description: Учебник «Анимация в вебе», Value: tilda.education/web-animation-course
+						341 link Description: Статьи по дизайну, Value: tilda.education/#design
+						342 link Description: Статьи по маркетингу, Value: tilda.education/#marketing
+						343 link Description: Видеоуроки, Value: tilda.education/video/
+						344 link Description: Школа Тильды, Value: tilda.school/
+					345 text ДОПОЛНИТЕЛЬНО
+					346 container
+						347 link Description: Бесплатные иконки Tilda Icons, Value: tilda.cc/ru/free-icons/
+						348 link Description: Генератор UTM-меток, Value: tilda.cc/ru/utm/
+						349 link Description: Конструктор политики конфиденциальности, Value: tilda.cc/ru/privacy-generator/
+						350 link Description: Библиотека цветов, Value: tilda.cc/ru/colors/
+						351 link Description: Найти дизайнера, Value: experts.tilda.cc/ru
+						352 link Description: Шрифт Tilda Sans, Value: tilda.cc/ru/lp/tildasans/
+						353 link Description: Проверка битых ссылок, Value: tilda.cc/ru/broken-links
+						354 link Description: Векторный онлайн-редактор, Value: tilda.cc/vector
+						355 link Description: Мерч, Value: tilda.store/
+				356 content list Соц. сети
+					357 link Description: vk, Value: vk.com/tildapublishing
+					358 link Description: website, Value: vkvideo.ru/@tildapublishing
+					359 link Description: maxmessenger, Value: max.ru/tildapublishing
+					360 link Description: youtube, Value: youtube.com/tildapublishing
+					361 link Description: telegram, Value: telegram.me/tildanews
+					362 link Description: twitter, Value: twitter.com/TildaPublishing
+				363 container
+					364 text © Tilda Publishing.  Этот сайт сделан также на Тильде. Написать нам:
+					365 link Description: team@tilda.cc, Value: mailto:team@tilda.cc
+		366 link Description: Made on Tilda, Value: tilda.cc/
+
+The focused UI element is 1 AXWebArea Создать сайт бесплатно. Конструктор сайтов Tilda Publishing, URL: tilda.cc/ru/

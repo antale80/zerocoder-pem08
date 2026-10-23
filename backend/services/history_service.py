@@ -28,6 +28,7 @@ class HistoryService:
         logger.info(f"  Файл истории: {self.history_file}")
         logger.info(f"  Макс. записей: {self.max_items}")
         
+        self.history_file.parent.mkdir(parents=True, exist_ok=True)
         self._ensure_file_exists()
         
         # Загружаем и показываем текущее состояние
@@ -72,7 +73,8 @@ class HistoryService:
         self,
         request_type: str,
         request_summary: str,
-        response_summary: str
+        response_summary: str,
+        analysis: dict = None
     ) -> HistoryItem:
         """Добавить запись в историю"""
         logger.info(f"📝 Добавление записи в историю")
@@ -87,6 +89,7 @@ class HistoryService:
             "timestamp": datetime.now().isoformat(),
             "request_type": request_type,
             "request_summary": request_summary[:200],
+            "analysis": analysis,
             "response_summary": response_summary[:500]
         }
         

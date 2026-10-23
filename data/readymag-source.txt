@@ -1,0 +1,99 @@
+Browser tab: 3, Title: "Readymag – the design tool for outstanding websites", URL: "https://readymag.com/".
+1 AXWebArea Readymag – the design tool for outstanding websites, URL: readymag.com/
+	2 container
+		13 container
+			14 container
+				15 container
+					16 image
+					17 link Description: Try Readymag, Value: readymag.com/auth/join
+					18 container
+						19 text Make the web more like you. 
+						20 text A human-powered design tool for creating distinctive websites
+				21 container
+					22 image
+					23 link readymag.com/join
+				24 container
+					25 image
+					26 image
+					27 image
+					28 image
+					29 image
+					30 image
+					31 image
+					32 image
+					33 image
+					34 image
+					35 image
+					36 image
+					37 image
+					38 image
+					39 image
+					40 image
+					41 image
+					42 image
+					43 image
+					44 image
+					45 image
+					46 image
+					47 image
+					48 image
+					49 image
+					50 image
+					51 image
+					52 image
+					53 image
+					54 image
+					55 container
+						56 text field (settable)
+						57 button Open
+							58 text Open
+							59 image
+							60 image
+					61 image
+					62 image
+					63 image
+					64 image
+					65 image
+					66 image
+					67 link Description: Get started, Value: readymag.com/auth/join
+					68 image
+					69 text What you can publish
+					70 image
+					71 image
+					72 container
+						73 text Portfolios  that open new doors
+					74 container
+						75 text Studio websites  that attract dream clients
+					76 container
+						77 text Presentations  that sell your ideas
+					78 image
+					79 image
+					80 container
+						81 text Landing pages  that make launches stand out
+					82 container
+						83 text Graduate projects  that get you noticed
+					84 container
+						85 text Passion projects  that win awards
+					86 text Start with a blank page or a template. 
+					87 text Drag, resize, arrange, animate, and publish.
+					99 text From idea to published site
+					100 container
+						101 text Everything you need for your site
+					102 text Shots
+					103 text Animations
+					104 text Import from
+					105 text Figma
+					106 text Turn video into interactive sequences
+			88 container
+				89 link Description: Readymag, Value: readymag.com/
+				90 combo box (collapsed) Secondary Actions: Expand
+					91 pop up button open menu
+						92 text Solutions
+				93 link Description: Pricing, Value: readymag.com/pricing
+				94 link Description: Examples, Value: readymag.com/examples
+				95 link Description: Templates, Value: readymag.com/templates
+				96 link Description: Learn, Value: readymag.com/learn
+				97 link Description: Log in, Value: readymag.com/auth/login
+				98 link Description: Sign up, Value: readymag.com/auth/join
+
+The focused UI element is 1 AXWebArea Readymag – the design tool for outstanding websites, URL: readymag.com/

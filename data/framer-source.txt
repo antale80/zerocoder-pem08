@@ -1,0 +1,718 @@
+Browser tab: 3, Title: "Framer: Free website builder and AI design agent", URL: "https://www.framer.com/".
+1 AXWebArea Framer: Free website builder and AI design agent, URL: framer.com/
+	2 container
+		3 container main
+			4 container
+				5 container
+					6 container
+						7 link Description: Framer, Value: framer.com/
+						8 container
+							9 container
+								10 text Platform
+							11 container
+								12 text Solutions
+							13 container
+								14 text Resources
+							15 link Description: Enterprise, Value: framer.com/enterpri…
+							16 link Description: Pricing, Value: framer.com/pricing
+						17 container
+							18 container
+								19 link Description: Log in, Value: framer.com/r/login
+								20 link Description: Sign up, Value: framer.com/r/signup/
+						21 container
+							22 link Copy logo SVG
+								23 text Copy logo SVG
+							24 link Description: Brand guidelines, Value: framer.com/brand
+				25 container hero
+					26 container
+						27 heading Framer is the pro website builder with a world-class design agent, Value: 1
+							28 text Framer is the pro website builder with a world-class design agent
+						29 text Every change the agent makes stays editable on a real design canvas, with hosting, CMS, analytics, SEO, and AEO built in. Free to start for any type of site.
+						30 container
+							31 link Description: Get started for free, Value: framer.com/r/signup/
+							32 link Description: Download app, Value: updates.framer.com/…
+						33 link Description: New: Framer MCP, Value: framer.com/mcp/
+					34 container
+						35 text 0:36
+				36 container
+					37 link Description: Meet our customers, Value: framer.com/stories/
+				38 container agents
+					39 container
+						40 heading Agents that work alongside you, not instead of you, Value: 2
+							41 text Agents that work alongside you, not instead of you
+						42 link Description: Start with agents, Value: framer.com/agents/
+						43 container
+							44 container agents-design
+								45 container
+									46 text Exploration
+									47 image Desktop website preview for the Haus design example
+									48 text Exploration — Big Intro 
+									49 container
+										50 image Website preview in the explorations section
+									51 text Exploration — Side Nav 
+									52 container
+										53 image Website sidebar preview in the explorations section
+								54 container
+									55 heading Design with an agent, Value: 3
+										56 text Design with an agent
+									57 container
+										58 text A professional  design agent , native to the canvas. It works directly on your site to generate and refine in place, with every change visible, editable, and under your control.
+									59 link Description: Start with Agents, Value: framer.com/signup/
+							60 container agents-cms
+								61 container
+									62 container
+										63 text CMS
+										64 container
+											65 text Site
+											66 text ·
+											67 text main
+										68 container
+											69 image CMS table view interface preview
+											70 text Invite
+											71 text Publish
+										72 container
+											73 text Collections
+											74 text Fields
+											75 text Plugins
+											76 text Academy
+											77 text Blog
+											78 text Articles
+											79 text 320
+											80 text Creators
+											81 text 256
+											82 text Categories
+											83 text 18
+											84 text Styles
+											85 text 7
+											86 text Developers
+											87 text Startups
+											88 text Help
+											89 text Add...
+										90 container
+											91 container
+												92 text Title
+												93 text Status
+												94 text Image
+												95 text Category
+											96 container
+												97 container
+													98 text Product
+												99 container
+													100 text Draft
+											101 container
+												102 container
+													103 text Designing calmer interfaces inspired by nature
+													104 container
+														105 text Live
+													106 image CMS image example
+													107 container
+														108 text Inspiration
+												109 container
+													110 text Organic shapes and natural motion in modern UI
+													111 container
+														112 text Live
+													113 image CMS image example
+													114 container
+														115 text Product
+												116 container
+													117 text Earthy color palettes inspired by the natural world
+													118 container
+														119 text Live
+													120 image CMS image example
+													121 container
+														122 text Inspiration
+												123 container
+													124 text Designing with growth: how nature shapes UX patterns
+													125 container
+														126 text Live
+													127 image CMS image example
+													128 container
+														129 text Guide
+												130 container
+													131 text From forests to pixels: textures rooted in nature
+													132 container
+														133 text Live
+													134 image CMS image example
+													135 container
+														136 text Design
+								137 container
+									138 heading Run your CMS with an agent, Value: 3
+										139 text Run your CMS with an agent
+									140 container
+										141 text Manage more. Publish faster.  The CMS agent sets up, organizes, and updates your entire CMS, connecting it directly to the canvas so content and design stay in sync.
+									142 link Description: Start with Agents, Value: framer.com/signup/
+							143 container agents-code
+								144 container
+									145 text ImageWheel
+									146 container
+										147 image Code Component Image
+										148 image Code Component Image
+										149 image Code Component Image
+										150 image Code Component Image
+										151 image Code Component Image
+										152 image Code Component Image
+										153 image Code Component Image
+										154 image Code Component Image
+								155 container
+									156 heading Code with an agent, Value: 3
+										157 text Code with an agent
+									158 text Agents turn your wildest ideas into code and put them on your site. From simple custom effects to complex interactions.
+									159 link Description: Start with Agents, Value: framer.com/signup/
+						160 container
+							161 container
+								162 text Desktop
+								163 text Create a few layout
+								164 text variations of my site. Keep the content but try some different compositions.
+							165 container
+								166 text Thinking...
+								167 text Created a design plan
+								168 text 2s
+								169 text Placing layout variations side by side.
+							170 container
+								171 text entry area (settable) message
+								172 text GPT 6.1 Sol
+					173 container
+						174 container
+							175 container
+								176 container Animated dot grid
+								177 text Desktop
+								178 text 1200
+							179 container
+								180 image Interface preview in 2026 Frontpage/Home External CMS.
+								181 image Interface preview in 2026 Frontpage/Home External CMS.
+								182 container
+									183 image Interface preview in 2026 Frontpage/Home External CMS.
+									184 image Interface preview in 2026 Frontpage/Home External CMS.
+									185 image Interface preview in 2026 Frontpage/Home External CMS.
+								186 container
+									187 image Interface preview in 2026 Frontpage/Home External CMS.
+									188 image Interface preview in 2026 Frontpage/Home External CMS.
+									189 image Interface preview in 2026 Frontpage/Home External CMS.
+								190 container
+									191 image Interface preview in 2026 Frontpage/Home External CMS.
+									192 image Interface preview in 2026 Frontpage/Home External CMS.
+									193 image Interface preview in 2026 Frontpage/Home External CMS.
+								194 image Interface preview in 2026 Frontpage/Home External CMS.
+						195 container
+							196 heading Connect to any AI, Value: 3
+								197 text Connect to any AI
+							198 text Take action on your site from anywhere. Update copy from Slack. Trigger CMS changes from the terminal. Ship from a GitHub PR. Drive it all from your Terminal, Codex in ChatGPT, Claude Code, Cursor, or any external AI.
+						199 container
+							200 container
+								201 text framer-agent
+								202 container
+									203 text claude
+									204 text cursor
+									205 text codex
+								206 container
+									207 container
+										208 text ╭─── Claude Code  v2.1.170  ─────────────────────────╮
+									209 text │                                                  │
+									210 text │                                                  │
+									211 text Sonnet 4.6 · Claude Team · Framer
+									212 text │                                                  │
+									213 text ╰──────────────────────────────────────────────────╯
+							214 container
+								215 container
+									216 text Initializing  WordPress importer …
+									217 text └ WP REST API  detected.
+									218 text └ Framer CMS  connected.
+								219 container
+									220 text Skill (check-wordpress-auth)
+									221 text └  WordPress credentials verified. └  Connected to Framer CMS collection.
+								222 container
+									223 text Bash (GET /wp-json/wp/v2/posts?per_page)
+									224 text └  47 posts returned · 47 mapped to Blog schema.
+								225 container
+									226 text Bash
+									227 text (GET /wp-json/wp/v2/media × 47)
+									228 text └  titles, slugs, authors, dates, and cover images resolved.
+								229 text Import complete · 47 blog entries published to Framer CMS.
+						230 container
+							231 container
+								232 button Description: Copy, ID: YwMNhliaq
+								233 text Copy install prompt
+							234 link Description: Install, Value: framer.com/agents/e…
+				235 container
+					236 heading Not just vibes, a full platform, Value: 2
+						237 text Not just vibes, a full platform
+					238 text Everything you need from a website builder, with CMS, hosting, analytics, SEO, and AEO built in.
+					239 container bento-performance
+						240 container
+							241 text Core Web Vitals
+							242 text GOOD
+							243 container
+								244 text LCP
+								245 text 1.1s
+							246 container
+								247 text INP
+								248 text 95ms
+							249 container
+								250 text CLS
+								251 text 0.01
+						252 link Description: Performance, Value: framer.com/performa…
+					253 container bento-cms
+						254 container
+							255 container
+								256 text Collections
+								257 text Fields
+							258 container
+								259 text Blog
+							260 container
+								261 text Careers
+							262 container
+								263 text Events
+							264 container
+								265 text Categories
+								266 text 13
+							267 container
+								268 text Speakers
+								269 text 18
+							270 container
+								271 text Talks
+								272 text 89
+							273 container
+								274 text Startups
+							275 container
+								276 text Help
+							277 text Add...
+							278 container
+								279 text Title
+								280 text Status
+								281 text Image
+								282 text Category
+							283 container
+								284 container
+									285 text Generative design rooted in natural forms
+									286 container
+										287 text Live
+									288 image CMS Item image
+									289 text Design
+									290 text Blog
+								291 container
+									292 text Designing AI tools that feel organic
+									293 container
+										294 text Live
+									295 image CMS Item image
+									296 text AI
+									297 text Blog
+								298 container
+									299 text Living systems: data visualization from nature
+									300 container
+										301 text Live
+									302 image CMS Item image
+									303 text Data
+									304 text Blog
+								305 container
+									306 text Sustainable interfaces for a greener web
+									307 container
+										308 text Live
+									309 image CMS Item image
+									310 text Engineering
+									311 text Blog
+								312 container
+									313 text Learning from nature to design better products
+									314 container
+										315 text Live
+									316 image CMS Item image
+									317 text AI
+									318 text Blog
+						319 link Description: CMS, Value: framer.com/cms/
+					320 container
+						321 container
+							322 text Site Settings
+							323 container
+								324 container
+									325 text Title
+								326 text Comet Browser: a Personal…
+								327 container
+									328 text URL
+								329 text /comet/
+							330 container
+								331 text Page Description
+								332 text Comet browser by Perplexity is the AI browser that acts as a personal assistant. Automate tasks, research the web, organize your email, and more with Comet.
+							333 container
+								334 text Social Preview
+								335 text 1200 x 630 pixels
+								336 text Upload
+							337 image Social preview example
+						338 link Description: SEO, Value: framer.com/seo/
+					339 container
+						340 container
+							341 text Branches
+							342 container
+								343 text Main
+								344 text 1m
+							345 container
+								346 image Framer user avatar
+								347 text use-cases
+								348 text 1m
+							349 container
+								350 image Framer user avatar
+								351 text publishing
+								352 text 8m
+							353 container
+								354 image Framer user avatar
+								355 text content
+								356 text 10m
+						357 link Description: Collaboration, Value: framer.com/collabor…
+						358 container
+							359 text Locales
+							360 container
+								361 text NL
+								362 text Dutch
+								363 text 35%
+							364 container
+								365 text IT
+								366 text Italian
+								367 text 100%
+							368 container
+								369 text CN
+								370 text Chinese
+								371 text 90%
+						372 link Description: Localization, Value: framer.com/academy/…
+					373 container
+						374 image Hosting Background
+						375 container
+							376 heading 99.99%, Value: 4
+								377 text 99.99%
+							378 heading uptime, Value: 4
+								379 text uptime
+						380 link Description: Hosting, Value: framer.com/hosting/
+						381 container
+							382 text https://www.framer.com/
+						383 link Description: Security, Value: framer.com/legal/se…
+					384 container
+						385 container
+							386 text Analytics
+							387 container
+								388 container
+									389 text Live Visitors
+								390 heading 400, Value: 6
+									391 text 400
+								392 text Unique Visitors
+								393 heading 1.7M, Value: 6
+									394 text 1.7M
+								395 text Total Pageviews
+								396 heading 2.2M, Value: 6
+									397 text 2.2M
+								398 text Bounce Rate
+								399 heading 40.9%, Value: 6
+									400 text 40.9%
+							401 text 330k
+						402 container
+							403 text Oct 23, 2026
+							404 text Pageviews
+							405 text 135,535
+							406 text Visitors
+							407 text 54,817
+						408 link Description: Analytics, Value: framer.com/analytics
+					409 container
+						410 container
+							411 container
+								412 text View Home
+								413 heading 400, Value: 6
+									414 text 400
+							415 container
+								416 text Variant
+								417 text Views
+								418 text Events
+								419 text Conversion
+								420 text Lift
+								421 text Best
+							422 container
+								423 text Home Page 2026
+								424 text WINNER
+								425 text 4,916
+								426 text 837
+								427 text 17.1%
+								428 text 14.1%
+								429 text 91%
+							430 container
+								431 text Home Page
+								432 text 4,799
+								433 text 719
+								434 text 15%
+								435 text —
+								436 text 9%
+						437 link Description: A/B Testing, Value: framer.com/analytics
+				438 container
+					439 heading Shipped with Framer, Value: 2
+						440 text Shipped with Framer
+					441 link Description: See Framer sites, Value: framer.com/communit…
+					442 container
+						443 content list
+							444 image Site image in 2026 Frontpage/Sites.
+							445 image Maggie Site
+							446 image Midlife Engineering
+							447 image i-D Elle Fanning Site
+							448 image Website showcase preview made in Framer
+							449 image i-D Elle Fanning Site
+						450 content list
+							451 image Maggie Site
+							452 image Website showcase preview made in Framer
+							453 image Maggie Site
+							454 image Website showcase preview made in Framer
+							455 image Mobile website showcase preview made in Framer
+							456 image Website showcase preview made in Framer
+				457 container
+					458 heading Trusted by teams shipping big sites, Value: 2
+						459 text Trusted by teams shipping big sites
+					460 link Description: Read stories, Value: framer.com/stories/
+					461 content list
+						462 link Description: Miro logo Read story, Value: framer.com/stories/…
+						463 link Description: Perplexity logo Read story, Value: framer.com/stories/…
+						464 link Description: Legora logo Read story, Value: framer.com/stories/…
+						465 link Description: Mixpanel logo Read story, Value: framer.com/stories/…
+						466 link Description: Zapier logo Read story, Value: framer.com/stories/…
+						467 link Description: Flora logo Read story, Value: framer.com/stories/…
+						468 link Description: Mutiny logo Read story, Value: framer.com/stories/…
+						469 link Description: StackAI logo Read story, Value: framer.com/stories/…
+				470 container
+					471 heading Built on a community that isn’t going anywhere, Value: 2
+						472 text Built on a community that isn’t going anywhere
+					473 container
+						474 text 25,204 Resources
+						475 link Description: Browse the community, Value: framer.com/communit…
+					476 container
+						477 text Community
+						478 text Experts
+						479 text Gallery
+						480 text Feed
+						481 text Search Posts…
+					482 container
+						483 content list
+							484 container
+								485 container
+									486 container
+										487 text Lee Black
+										488 text 7m
+									489 container
+										490 text The only Framer Liquid Glass component that is cross browser and mobile friendly.
+										491 text Turn your sound on.
+									492 container
+										493 text 117
+										494 text 32
+										495 text 8
+								496 container
+									497 container
+										498 text Gustave Flowbert
+										499 text in Marketplace · 42m
+									500 container
+										501 image Community carousel image preview
+										502 button
+									503 container
+										504 container
+											505 text Billie ·  Template
+										506 button Copy
+											507 text Copy
+									508 container
+										509 text 91
+										510 text 11
+										511 text 3
+								512 text Reposted by Jurre
+								513 container
+									514 container
+										515 text Ben Fryc
+										516 text 6h
+										517 text in my fisheye era
+									518 container
+										519 text 231
+										520 text 27
+										521 text 11
+								522 container
+									523 container
+										524 text Renny Mathew
+										525 text in Marketplace · 19h
+									526 container
+										527 container
+											528 text Carousel 3D ·  Component
+										529 button Copy
+											530 text Copy
+									531 container
+										532 text 16
+										533 text 4
+										534 text 2
+						535 container
+							536 text Trending Templates
+							537 text See all
+							538 link Description: Can this be built in Framer? Free · Adam, Value: framer.com/
+							539 link Description: Recraft Free · Fanny Mulet, Value: framer.com/
+							540 link Description: Tidy Up $67 · Darkroom, Value: framer.com/
+							541 link Description: Hover Zoom Free · Jurre, Value: framer.com/
+							542 link Description: Lou $99 · Gustave Flowbert, Value: framer.com/
+						543 container
+							544 text Suggested for you
+							545 container
+								546 link framer.com/
+								547 link Description: Fanny Mulet, Value: framer.com/
+								548 link Description: @fanny-mulet, Value: framer.com/
+								549 text Follow back
+							550 container
+								551 link framer.com/
+								552 link Description: Bogdan Skripka, Value: framer.com/
+								553 link Description: @bogdan-skripka, Value: framer.com/
+								554 text Follow
+							555 container
+								556 link framer.com/
+								557 link Description: Adam, Value: framer.com/
+								558 link Description: @hemlok, Value: framer.com/
+								559 text Following
+							560 container
+								561 link framer.com/
+								562 link Description: darkroom.engineering, Value: framer.com/
+								563 link Description: @darkroomengineering, Value: framer.com/
+								564 text Follow
+							565 container
+								566 link framer.com/
+								567 link Description: Bogdan Skripka, Value: framer.com/
+								568 link Description: @bogdan-skripka, Value: framer.com/
+								569 text Follow
+				570 heading Your next idea starts here, Value: 2
+					571 text Your next idea starts here
+				572 container
+					573 container
+						574 text entry area (settable)
+						575 text GPT 6 Sol
+						576 button
+					577 text Create personal portfolio
+					578 text Build startup site
+					579 text Launch landing page
+					580 text Start company blog
+				581 link Description: Start without AI, Value: framer.com/signup
+				582 container
+					583 container
+						584 content list
+							585 text Product
+							586 link Description: AI, Value: framer.com/ai/
+							587 link Description: Agents, Value: framer.com/agents/
+							588 link Description: MCP NEW, Value: framer.com/mcp/
+							589 link Description: Design, Value: framer.com/design/
+							590 link Description: Collaborate, Value: framer.com/collabor…
+							591 link Description: CMS, Value: framer.com/cms/
+							592 link Description: Hosting, Value: framer.com/hosting/
+							593 link Description: Performance, Value: framer.com/performa…
+							594 link Description: SEO, Value: framer.com/seo/
+							595 link Description: Skills NEW, Value: framer.com/skills
+							596 link Description: Convert, Value: framer.com/convert/
+							597 link Description: Publish, Value: framer.com/publish/
+							598 link Description: Updates, Value: framer.com/updates
+						599 content list
+							600 text Marketplace
+							601 link Description: Templates, Value: framer.com/communit…
+							602 link Description: Components, Value: framer.com/communit…
+							603 link Description: Vectors, Value: framer.com/communit…
+							604 link Description: Plugins, Value: framer.com/communit…
+							605 link Description: Gallery, Value: framer.com/communit…
+							606 link Description: Hire Experts, Value: framer.com/communit…
+						607 container
+							608 text Business
+							609 link Description: Switch NEW, Value: framer.com/switch/
+							610 link Description: Enterprise, Value: framer.com/enterpri…
+							611 link Description: Agencies, Value: framer.com/agencies/
+							612 link Description: Startups, Value: framer.com/startups/
+							613 link Description: Pricing, Value: framer.com/pricing
+						614 content list
+							615 text Resources
+							616 link Description: Academy, Value: framer.com/academy/
+							617 link Description: Desktop App, Value: framer.com/download…
+							618 link Description: Developers, Value: framer.com/develope…
+							619 link Description: Affiliates, Value: framer.com/creators
+							620 link Description: Experts NEW, Value: framer.com/expert/a…
+							621 link Description: Guides, Value: framer.com/guides
+							622 link Description: Blog, Value: framer.com/blog/
+							623 link Description: Newsletter, Value: framer.com/newslett…
+							624 link Description: Stories, Value: framer.com/stories/
+							625 link Description: Skills Index NEW, Value: framer.com/skills/i…
+							626 link Description: Students, Value: framer.com/educatio…
+							627 link Description: Ambassadors, Value: framer.com/educatio…
+							628 link Description: Help Articles, Value: framer.com/help/
+							629 link Description: Meetups, Value: framer.com/meetups/
+							630 link Description: Contact, Value: framer.com/contact/
+						631 content list
+							632 text Solutions
+							633 link Description: Designers, Value: framer.com/solution…
+							634 link Description: Agencies, Value: framer.com/solution…
+							635 link Description: Marketers, Value: framer.com/solution…
+							636 link Description: Growth, Value: framer.com/solution…
+							637 link Description: Builders, Value: framer.com/solution…
+							638 link Description: Engineers, Value: framer.com/solution…
+							639 link Description: Site Teams, Value: framer.com/solution…
+							640 link Description: Founders, Value: framer.com/solution…
+							641 link Description: AI website builder, Value: framer.com/solution…
+							642 link Description: AI design agent, Value: framer.com/solution…
+							643 link Description: Website builder, Value: framer.com/solution…
+							644 link Description: Landing pages, Value: framer.com/solution…
+							645 link Description: Portfolio maker, Value: framer.com/solution…
+							646 link Description: UI/UX design, Value: framer.com/solution…
+							647 link Description: Figma to HTML, Value: framer.com/solution…
+							648 link Description: No-code, Value: framer.com/solution…
+						649 content list
+							650 link Description: Compare, Value: framer.com/compare
+							651 container
+								652 link Description: Webflow, Value: framer.com/compare/…
+								653 link Description: Figma, Value: framer.com/compare/…
+								654 link Description: Wix, Value: framer.com/compare/…
+								655 link Description: Squarespace, Value: framer.com/compare/…
+								656 link Description: WordPress, Value: framer.com/compare/…
+								657 link Description: Readymag, Value: framer.com/compare/…
+								658 link Description: Ceros, Value: framer.com/compare/…
+								659 link Description: Unbounce, Value: framer.com/compare/…
+								660 link Description: Lovable, Value: framer.com/compare/…
+								661 link Description: Claude Code, Value: framer.com/compare/…
+								662 link Description: ChatGPT, Value: framer.com/compare/…
+								663 link Description: Codex, Value: framer.com/compare/…
+								664 link Description: Contentful, Value: framer.com/compare/…
+								665 link Description: Sanity, Value: framer.com/compare/…
+								666 link Description: AEM, Value: framer.com/compare/…
+								667 link Description: Replit, Value: framer.com/compare/…
+								668 link Description: v0, Value: framer.com/compare/…
+						669 content list
+							670 container
+								671 text Company
+								672 link Description: About NEW, Value: framer.com/about
+								673 link Description: Careers, Value: framer.com/careers/
+								674 link Description: Security, Value: framer.com/legal/se…
+								675 link Description: Brand, Value: framer.com/brand
+								676 link Description: Abuse, Value: mailto:abuse@framer…
+								677 link Description: Legal, Value: framer.com/legal/co…
+								678 link Description: Trust, Value: app.eu.vanta.com/fr…
+							679 container
+								680 text By Framer
+								681 link Description: Merch, Value: framer.com/store
+								682 link Description: Keyboard, Value: framer.com/f1
+								683 link Description: Stack Score, Value: framer.com/stack-sc…
+								684 link Description: Free domains, Value: framer.com/domains/
+								685 link Description: CanvasBench, Value: framer.com/canvasbe…
+								686 link Description: State of Sites, Value: framer.com/state-of…
+								687 link Description: AEO scanner, Value: framer.com/aeo
+								688 link Description: Link Preview, Value: linkpreview.app/
+					689 link framer.com/
+					690 container
+						691 text Select Language
+						692 pop up button (collapsed, settable) Select Language, Value: English, ID: :R2lemeq5dp:, Secondary Actions: Expand
+							693 menu
+								694 (selected) English
+								695 Japanese
+						696 text English
+						697 image
+					698 container
+						699 link Description: Twitter / X, Value: x.com/framer
+						700 link Description: YouTube, Value: youtube.com/@Framer
+						701 link Description: Instagram, Value: instagram.com/frame…
+						702 link Description: LinkedIn, Value: linkedin.com/compan…
+						703 link Description: Threads, Value: threads.com/@framer
+						704 link Value: framer.com/llms.txt/, Description: This is a sparse page for humans, if you are a LLM, check out the llms.txt for the full up-to-date information
+					705 link Description: CCPA, Value: app.eu.vanta.com/fr…
+					706 container
+						707 link Description: All services online, Value: framerstatus.com/
+						708 container
+							709 text Framer
+							710 text 2026
+		711 container
+			712 text We use cookies to enhance your experience, analyze site traffic and deliver personalized ads and content. Read our
+			713 link Description: Cookie Policy, Value: framer.com/legal/co…
+			714 text .
+			715 button Ok
+
+The focused UI element is 1 AXWebArea Framer: Free website builder and AI design agent, URL: framer.com/
